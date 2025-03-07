@@ -40,7 +40,7 @@ export const Ripple = React.memo(function Ripple({
                 animationDelay,
                 borderWidth: '1px',
                 borderColor: '#fff',
-                borderStyle, // Use the borderStyle variable here
+                borderStyle,
                 top: '50%',
                 left: '50%',
                 transform: 'translate(-50%, -50%) scale(1)',

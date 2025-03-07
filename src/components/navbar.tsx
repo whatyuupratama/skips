@@ -9,7 +9,7 @@ const Navbar = () => {
           <span className='py-2 px-4 cursor-pointer rounded-md bg-[#9e2146] text-white'>
             Home
           </span>
-          <span className='py-2 px-4 cursor-pointer rounded-md text-black hover:bg-[#f4e2e7] hover:text-white'>
+          <span className='py-2 px-4 cursor-pointer rounded-md text-black '>
             Fitur
           </span>
         </div>
