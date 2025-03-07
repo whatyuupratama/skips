@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className='mx-auto flex justify-between items-center max-w-7xl h-full'>
         <span className='text-5xl'>🦷</span>
         <div className='flex gap-5 items-center '>
-          <span className='py-2 px-4 cursor-pointer rounded-md bg-[#9e2146] text-white'>
+          <span className='py-2 px-4 cursor-pointer rounded-sm bg-[#9e2146] text-white'>
             Home
           </span>
           <span className='py-2 px-4 cursor-pointer rounded-md text-black '>

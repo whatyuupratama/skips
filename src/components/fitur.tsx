@@ -10,7 +10,7 @@ const Fitur = () => {
           <span className='text-5xl font-bold text-[#9f033c] mb-4'>
             Apa Yang Kami Tawarkan?
           </span>
-          <span className='w-2/3 mx-auto text-black'>
+          <span className='w-1/2 mx-auto text-black '>
             Kami menyediakan beragam fitur yang dapat membantu orang tua dalam
             mengenali dan mencegah gigi berlubang pada anak.
           </span>
