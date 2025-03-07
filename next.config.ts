@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
       'anak-sehat.vercel.app',
       'media.istockphoto.com',
       'images.remotePatterns',
+      'images.domain',
     ],
   },
 };
