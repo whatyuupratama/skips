@@ -17,8 +17,8 @@ const About = () => {
           </div>
           <span>
             <b>Tema Skipsi: </b>Implementasi Metode Random Forest Classifier
-            untuk Memprediksi Risiko Gigi Berlubang Berdasarkan Gejala Klinis
-            dan Kebiasaan Perawatan Gigi pada Anak Usia 6 Bulan - 3 Tahun
+            untuk Memprediksi Risiko Gigi Berlubang Berdasarkan dan Kebiasaan
+            Perawatan Gigi pada Anak Usia 6 Bulan - 3 Tahun
           </span>
           <span>
             <b>Kuantitatif :</b> (dengan elemen kualitatif) - Pendekatan ini
